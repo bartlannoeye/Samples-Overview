@@ -9,6 +9,7 @@ I grouped all samples on the major platforms, with some extra tags where applica
 
 |Month  |Title & Description|Tags|
 |-------|-------------------|----|
+|12/2015|[VariableSizedWrapGrid][6]<br/>Grouped VariableSizedWrapGrid similar to Windows 8||
 |11/2015|[SemanticZoom][5]<br/>Bring your SemanticZoom from Windows 8.1 to Windows 10.||
 |09/2015|[NuSpec.ReferenceGenerator][4]<br/>Create NuGet packages for your UWP libraries using this tool.|NuGet|
 
@@ -27,3 +28,4 @@ I grouped all samples on the major platforms, with some extra tags where applica
 [3]: https://github.com/bartlannoeye-com/2015-01-BindingUpdates
 [4]: https://github.com/bartlannoeye-com/2015-09-NuspecReferenceGenerator
 [5]: https://github.com/bartlannoeye-com/2015-11-SemanticZoom
+[6]: https://github.com/bartlannoeye-com/2015-12-VariableSizedWrapGrid
