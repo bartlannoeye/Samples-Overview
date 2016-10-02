@@ -9,7 +9,7 @@ I grouped all samples on the major platforms, with some extra tags where applica
 
 |Month  |Title & Description|Tags|
 |-------|-------------------|----|
-|09/2016|[PrismStartupSequence][8]<br/>Custom startup sequence defined by some business logic.|Prism|
+|09/2016|[PrismStartupSequence][8]<br/>- Custom startup sequence defined by some business logic.<br/>- Integrating your own NavigationService into Prism.|Prism|
 |08/2016|[NotMappedIgnored][7]<br/>Repro and fix for NotMappedAttribute that was ignored in EF Core.|EF Core|
 |12/2015|[VariableSizedWrapGrid][6]<br/>Grouped VariableSizedWrapGrid similar to Windows 8.||
 |11/2015|[SemanticZoom][5]<br/>Bring your SemanticZoom from Windows 8.1 to Windows 10.||
@@ -32,4 +32,4 @@ I grouped all samples on the major platforms, with some extra tags where applica
 [5]: https://github.com/bartlannoeye-com/2015-11-SemanticZoom
 [6]: https://github.com/bartlannoeye-com/2015-12-VariableSizedWrapGrid
 [7]: https://github.com/bartlannoeye-com/2016-08-NotMappedIgnored
-[7]: https://github.com/bartlannoeye-com/2016-09-PrismStartupSequence
+[8]: https://github.com/bartlannoeye-com/2016-09-PrismStartupSequence
