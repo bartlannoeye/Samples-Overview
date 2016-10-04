@@ -10,7 +10,7 @@ I grouped all samples on the major platforms, with some extra tags where applica
 |Month  |Title & Description|Tags|
 |-------|-------------------|----|
 |10/2016|[ProgressBarTemplateSettings][9]<br/>Use template settings classes to tweak the control template of a ProgressBar.||
-|09/2016|[PrismStartupSequence][8]<br/>Custom startup sequence defined by some business logic.|Prism|
+|09/2016|[PrismStartupSequence][8]<br/>- Custom startup sequence defined by some business logic.<br/>- Integrating your own NavigationService into Prism.|Prism|
 |08/2016|[NotMappedIgnored][7]<br/>Repro and fix for NotMappedAttribute that was ignored in EF Core.|EF Core|
 |12/2015|[VariableSizedWrapGrid][6]<br/>Grouped VariableSizedWrapGrid similar to Windows 8.||
 |11/2015|[SemanticZoom][5]<br/>Bring your SemanticZoom from Windows 8.1 to Windows 10.||
